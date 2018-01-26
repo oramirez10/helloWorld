@@ -8,5 +8,6 @@
 
 int main(int argc, char **argv) {
     printf("Hello World!\n");
+    printf("Oscar!");
     return 0;
     }
