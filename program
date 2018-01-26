@@ -1,0 +1,12 @@
+//Author: Dakota Kochen and Oscar Ramirez
+//Date: 1/25/18
+//Hello world collaboration project
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char **argv) {
+    printf("Hello World!\n");
+    return 0;
+    }
